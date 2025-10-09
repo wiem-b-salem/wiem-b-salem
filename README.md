@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning
   Flutter , zig , gamedev 
 - 📫 How to reach me
-  Email : bensalemwi2m@gmil.com
+  Email : bensalemwi2m@gmail.com
   linkedin : https://www.linkedin.com/in/wiem-ben-salem-302322295/
   I'm always eager to meet fellow developers and make new friends. If you share similar interests or just want to chat about tech, feel free to reach out! Let's learn and grow together. 😊
 - Thanks for stopping by !
