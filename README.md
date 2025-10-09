@@ -1,11 +1,10 @@
 - 👋 Hi There,
   I’m @wiem-ben-salem ,
-  21 y.o ,
+  23 y.o ,
   from Tunisia ,
-  and a third year computer science student 
 - 👀 Skills :
-  Webdev & Mobiledev ( currently learning flutter & planning to learn native soon)
-  python , java & javascript (also some c / c++ / c# / zig (still a beginner in those))
+  Mobiledev 
+  python , java & javascript 
   beginner gamedev(using godot) 
 - 🌱 I’m currently learning
   Flutter , zig , gamedev 
