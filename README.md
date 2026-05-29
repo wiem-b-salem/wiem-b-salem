@@ -34,24 +34,6 @@ Git, GitHub, Docker, Linux, Jira, Trello, Notion
 
 ---
 
-## 📌 Featured Projects
-
-### 🗺️ TuniWay – Tourism Exploration Platform
-- Full-stack tourism discovery application in Tunisia  
-- Backend: Spring Boot + MongoDB  
-- Frontend: Angular  
-
-### 📱 TravelTun – Multi-platform Tourism App
-- Mobile + Web application built with Flutter  
-- Firebase backend with admin dashboard  
-- Real-time data and multi-user system  
-
-### 🏫 School Management System
-- Full-stack web app (React + Node.js + MongoDB)  
-- Features: authentication, scheduling, grading system, internal messaging  
-
----
-
 ## 📫 Contact
 - Email: bensalemwi2m@gmail.com  
 - LinkedIn: linkedin.com/in/wiemben-salem-302322295  
