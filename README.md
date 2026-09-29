@@ -7,8 +7,11 @@
 ---
 
 ## 🚀 About Me
-I am a 4th-year engineering student focused on building modern web and mobile applications.  
-I enjoy turning ideas into real-world products and working on full-stack systems from backend architecture to clean UI/UX.
+I am a Software Engineering & Information Systems engineering student interested in building structured, scalable, and user-oriented software systems.
+
+I enjoy turning real-world problems into practical software solutions, from backend architecture and APIs to full-stack applications and intelligent systems.
+
+I'm particularly interested in application architecture, backend development, AI-powered applications, and learning how modern software systems are designed, deployed, and maintained.
 
 ---
 
