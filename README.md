@@ -38,7 +38,7 @@ Git, GitHub, Docker, Linux, Jira, Trello, Notion
 ---
 
 ## 📫 Contact
-- Email: bensalemwi2m@gmail.com  
+- Email: wiembnsalem@gmail.com  
 - LinkedIn: linkedin.com/in/wiemben-salem-302322295  
 - GitHub: github.com/wiem-bsalem  
 - LeetCode: leetcode.com/wiem-bsalem  
